@@ -1,0 +1,13 @@
+{
+	"name": "nickmccally/wp-custom-post-type-pagination",
+	"description": "Adds ticker symbol shortcode and function to pull data from rest API's",
+	"type": "wordpress-plugin",
+	"license": "GPL-2.0",
+	"minimum-stability": "stable",
+	"homepage": "https://github.com/nickmccally/ticker-symbol",
+	"require": {
+		"composer/installers": "^1.5",
+		"johnpbloch/wordpress-core": "*",
+		"johnpbloch/wordpress": "*"
+	}
+}
