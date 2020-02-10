@@ -1,5 +1,5 @@
 {
-	"name": "nickmccally/wp-custom-post-type-pagination",
+	"name": "nickmccally/ticker-symbol",
 	"description": "Adds ticker symbol shortcode and function to pull data from rest API's",
 	"type": "wordpress-plugin",
 	"license": "GPL-2.0",
